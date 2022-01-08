@@ -1,7 +1,7 @@
 # learn-go
 Learn coding with Golang
 
-- [ ] Hello World
+- [x] Hello World
 - [ ] Sorting
 - [ ] Searching
 - [ ] Djikstra's Algorithm
