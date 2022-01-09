@@ -2,8 +2,8 @@
 Learn coding with Golang
 
 - [x] Hello World
-- [ ] Conditionals
-- [ ] Loops
+- [x] Conditionals
+- [x] Loops
 - [ ] Sorting
 - [ ] Searching
 - [ ] Djikstra's Algorithm
